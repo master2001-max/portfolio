@@ -1,5 +1,11 @@
-🚀 Personal Portfolio Website - Isuru Jayantha
 
-🎯 This is my fully responsive and modern personal portfolio website, built to showcase my skills, projects, and passion as a software developer.
-
-🔗 **Live Demo:** [master2001-max.github.io/portfolio](https://master2001-max.github.io/portfolio)
+  <h2 align="center"> 🎯Personal Portfolio Website — Isuru Jayantha </h2><br />
+  <p align="center">
+  🚀 Clean | 💻 Responsive | 🌐 Live on GitHub Pages <br/>
+  <a href="https://master2001-max.github.io/portfolio" target="_blank">
+    🔗 Live Demo
+  </a> |
+  <a href="https://github.com/master2001-max/portfolio" target="_blank">
+    📂 GitHub Repo
+  </a>
+</p>
